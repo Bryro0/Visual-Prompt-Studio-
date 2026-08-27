@@ -1,2 +1,2 @@
-# Visual-Prompt-Studio-Bryan-Rodriguez-
+# Visual-Prompt-Studio-
 A portfolio for Art Appreciation 
