@@ -3,8 +3,13 @@ Sci-Fi Film Poster Project
 Create a poster for a fictional Sci-Fi movie. It should show an underwater city for humans with a domr surronding it. Focus on show special machinary around it allows preassure stability and supplies oxygen. Show ample space above the city showing just the vast ocean to emphasize lonliness. There should also be long sleek metalic tubes connecting the machinary to the surface show smaller domes nearby but dont make them as extravagant. Overall I would like for the structures to be colorful with some light but make it the most apparant with the main city dome as the central focus. Id like for the angle to be a partial birds eye view, as if the viewer is peeking in from the surface. There should be organic contour lines that represent ripples of water around the city to imply large energy use and to show how busy the city is. Show rough sea rock formation in the gaps around the domes and colorful rigid lines of coral reefs.
 
 Glossary
+
 Lines - A 1-dimensional geometric shape that can extend infinitely. Used as the most basic fundamental of art. 
+
 Shape - Form; typically, 2-dimensional forms made up of lines. They can be geometric or organic.
+
 Texture - How a surface looks or feels.
+
 Volume - The dimensional space and mass of a form.
+
 Contrast - Juxtaposing visual elements like small or big, light and dark. Used for variety in an art piece 
